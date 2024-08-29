@@ -8,5 +8,5 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,html,css,vuejs,bootstrap,python" />
-  <img src="https://skillicons.dev/icons?i=php,java,javascript,nodejs,mysql,postgresql,oracle" /><br>
+  <img src="https://skillicons.dev/icons?i=php,java,javascript,nodejs,mysql,postgresql" /><br>
 </div>
